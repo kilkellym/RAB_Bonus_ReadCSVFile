@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB_Bonus_ReadCSVFile - Command 1</Text>
+    <Description>Some description for RAB_Bonus_ReadCSVFile</Description>
+    <Assembly>RAB_Bonus_ReadCSVFile.dll</Assembly>
+    <FullClassName>RAB_Bonus_ReadCSVFile.Command1</FullClassName>
+    <ClientId>3dc2c9b1-2620-4629-ab5d-27beda0b81cc</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Bonus_ReadCSVFile - Command 2</Text>
+    <Description>Some description for RAB_Bonus_ReadCSVFile</Description>
+    <Assembly>RAB_Bonus_ReadCSVFile.dll</Assembly>
+    <FullClassName>RAB_Bonus_ReadCSVFile.Command2</FullClassName>
+    <ClientId>1ae4692d-e7a1-4490-ae7c-03191e4397ca</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_Bonus_ReadCSVFile</Name>
+    <Assembly>RAB_Bonus_ReadCSVFile.dll</Assembly>
+    <FullClassName>RAB_Bonus_ReadCSVFile.App</FullClassName>
+    <ClientId>bfc15005-8afe-4eb2-acbe-c6c61f3bf5ae</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
